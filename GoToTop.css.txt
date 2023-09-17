@@ -6,10 +6,9 @@
 }
 
 .top-btn {
-  width: 0;
+  padding: 8px;
   right: 80px;
   z-index: 999;
-  height: 0;
   bottom: 80px;
   color: #fff;
   display: flex;
